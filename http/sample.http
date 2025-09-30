@@ -1,1 +1,10 @@
 GET http://localhost:3000/hello
+
+###
+GET http://3.36.57.89:80/health
+
+###
+GET http://3.36.57.89:80/hi
+
+###
+GET http://3.36.57.89:80/bye
